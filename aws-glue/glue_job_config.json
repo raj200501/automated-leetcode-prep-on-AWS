@@ -1,0 +1,12 @@
+{
+    "Name": "LeetCodeGlueJob",
+    "Role": "arn:aws:iam::YOUR_ACCOUNT_ID:role/glue-execution-role",
+    "Command": {
+        "Name": "glueetl",
+        "ScriptLocation": "s3://YOUR_SCRIPT_LOCATION/glue_job.py",
+        "PythonVersion": "3"
+    },
+    "MaxRetries": 0,
+    "Timeout": 2880,
+    "GlueVersion": "2.0"
+}
