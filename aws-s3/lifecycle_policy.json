@@ -1,0 +1,31 @@
+{
+    "Rules": [
+        {
+            "Status": "Enabled",
+            "Prefix": "",
+            "Transitions": [
+                {
+                    "Days": 30,
+                    "StorageClass": "STANDARD_IA"
+                },
+                {
+                    "Days": 365,
+                    "StorageClass": "GLACIER"
+                }
+            ],
+            "NoncurrentVersionTransitions": [
+                {
+                    "NoncurrentDays": 30,
+                    "StorageClass": "STANDARD_IA"
+                },
+                {
+                    "NoncurrentDays": 365,
+                    "StorageClass": "GLACIER"
+                }
+            ],
+            "AbortIncompleteMultipartUpload": {
+                "DaysAfterInitiation": 7
+            }
+        }
+    ]
+}
