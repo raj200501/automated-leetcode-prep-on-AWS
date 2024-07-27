@@ -1,0 +1,8 @@
+{
+    "FunctionName": "LeetCodeScraperLambda",
+    "Handler": "lambda_handler.lambda_handler",
+    "Role": "arn:aws:iam::YOUR_ACCOUNT_ID:role/lambda-execution-role",
+    "Runtime": "python3.8",
+    "Timeout": 15,
+    "MemorySize": 128
+}
