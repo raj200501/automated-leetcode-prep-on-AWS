@@ -1,4 +1,2 @@
-COPY problems
-FROM 's3://leetcode-prep-bucket/processed-problems/'
-IAM_ROLE 'arn:aws:iam::YOUR_ACCOUNT_ID:role/redshift-copy-role'
-FORMAT AS JSON 'auto';
+-- Local pipeline loads data via Python instead of COPY commands.
+-- See automated_leetcode_prep.redshift for implementation details.

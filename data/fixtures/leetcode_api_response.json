@@ -1,0 +1,2645 @@
+{
+  "user_name": "local-fixture",
+  "stat_status_pairs": [
+    {
+      "stat": {
+        "question_id": 1,
+        "question__title": "Sample Problem 1",
+        "question__title_slug": "sample-problem-1"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 2,
+        "question__title": "Sample Problem 2",
+        "question__title_slug": "sample-problem-2"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 3,
+        "question__title": "Sample Problem 3",
+        "question__title_slug": "sample-problem-3"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 4,
+        "question__title": "Sample Problem 4",
+        "question__title_slug": "sample-problem-4"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 5,
+        "question__title": "Sample Problem 5",
+        "question__title_slug": "sample-problem-5"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 6,
+        "question__title": "Sample Problem 6",
+        "question__title_slug": "sample-problem-6"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 7,
+        "question__title": "Sample Problem 7",
+        "question__title_slug": "sample-problem-7"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 8,
+        "question__title": "Sample Problem 8",
+        "question__title_slug": "sample-problem-8"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 9,
+        "question__title": "Sample Problem 9",
+        "question__title_slug": "sample-problem-9"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 10,
+        "question__title": "Sample Problem 10",
+        "question__title_slug": "sample-problem-10"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 11,
+        "question__title": "Sample Problem 11",
+        "question__title_slug": "sample-problem-11"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 12,
+        "question__title": "Sample Problem 12",
+        "question__title_slug": "sample-problem-12"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 13,
+        "question__title": "Sample Problem 13",
+        "question__title_slug": "sample-problem-13"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 14,
+        "question__title": "Sample Problem 14",
+        "question__title_slug": "sample-problem-14"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 15,
+        "question__title": "Sample Problem 15",
+        "question__title_slug": "sample-problem-15"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 16,
+        "question__title": "Sample Problem 16",
+        "question__title_slug": "sample-problem-16"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 17,
+        "question__title": "Sample Problem 17",
+        "question__title_slug": "sample-problem-17"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 18,
+        "question__title": "Sample Problem 18",
+        "question__title_slug": "sample-problem-18"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 19,
+        "question__title": "Sample Problem 19",
+        "question__title_slug": "sample-problem-19"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 20,
+        "question__title": "Sample Problem 20",
+        "question__title_slug": "sample-problem-20"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 21,
+        "question__title": "Sample Problem 21",
+        "question__title_slug": "sample-problem-21"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 22,
+        "question__title": "Sample Problem 22",
+        "question__title_slug": "sample-problem-22"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 23,
+        "question__title": "Sample Problem 23",
+        "question__title_slug": "sample-problem-23"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 24,
+        "question__title": "Sample Problem 24",
+        "question__title_slug": "sample-problem-24"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 25,
+        "question__title": "Sample Problem 25",
+        "question__title_slug": "sample-problem-25"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 26,
+        "question__title": "Sample Problem 26",
+        "question__title_slug": "sample-problem-26"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 27,
+        "question__title": "Sample Problem 27",
+        "question__title_slug": "sample-problem-27"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 28,
+        "question__title": "Sample Problem 28",
+        "question__title_slug": "sample-problem-28"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 29,
+        "question__title": "Sample Problem 29",
+        "question__title_slug": "sample-problem-29"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 30,
+        "question__title": "Sample Problem 30",
+        "question__title_slug": "sample-problem-30"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 31,
+        "question__title": "Sample Problem 31",
+        "question__title_slug": "sample-problem-31"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 32,
+        "question__title": "Sample Problem 32",
+        "question__title_slug": "sample-problem-32"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 33,
+        "question__title": "Sample Problem 33",
+        "question__title_slug": "sample-problem-33"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 34,
+        "question__title": "Sample Problem 34",
+        "question__title_slug": "sample-problem-34"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 35,
+        "question__title": "Sample Problem 35",
+        "question__title_slug": "sample-problem-35"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 36,
+        "question__title": "Sample Problem 36",
+        "question__title_slug": "sample-problem-36"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 37,
+        "question__title": "Sample Problem 37",
+        "question__title_slug": "sample-problem-37"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 38,
+        "question__title": "Sample Problem 38",
+        "question__title_slug": "sample-problem-38"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 39,
+        "question__title": "Sample Problem 39",
+        "question__title_slug": "sample-problem-39"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 40,
+        "question__title": "Sample Problem 40",
+        "question__title_slug": "sample-problem-40"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 41,
+        "question__title": "Sample Problem 41",
+        "question__title_slug": "sample-problem-41"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 42,
+        "question__title": "Sample Problem 42",
+        "question__title_slug": "sample-problem-42"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 43,
+        "question__title": "Sample Problem 43",
+        "question__title_slug": "sample-problem-43"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 44,
+        "question__title": "Sample Problem 44",
+        "question__title_slug": "sample-problem-44"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 45,
+        "question__title": "Sample Problem 45",
+        "question__title_slug": "sample-problem-45"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 46,
+        "question__title": "Sample Problem 46",
+        "question__title_slug": "sample-problem-46"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 47,
+        "question__title": "Sample Problem 47",
+        "question__title_slug": "sample-problem-47"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 48,
+        "question__title": "Sample Problem 48",
+        "question__title_slug": "sample-problem-48"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 49,
+        "question__title": "Sample Problem 49",
+        "question__title_slug": "sample-problem-49"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 50,
+        "question__title": "Sample Problem 50",
+        "question__title_slug": "sample-problem-50"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 51,
+        "question__title": "Sample Problem 51",
+        "question__title_slug": "sample-problem-51"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 52,
+        "question__title": "Sample Problem 52",
+        "question__title_slug": "sample-problem-52"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 53,
+        "question__title": "Sample Problem 53",
+        "question__title_slug": "sample-problem-53"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 54,
+        "question__title": "Sample Problem 54",
+        "question__title_slug": "sample-problem-54"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 55,
+        "question__title": "Sample Problem 55",
+        "question__title_slug": "sample-problem-55"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 56,
+        "question__title": "Sample Problem 56",
+        "question__title_slug": "sample-problem-56"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 57,
+        "question__title": "Sample Problem 57",
+        "question__title_slug": "sample-problem-57"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 58,
+        "question__title": "Sample Problem 58",
+        "question__title_slug": "sample-problem-58"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 59,
+        "question__title": "Sample Problem 59",
+        "question__title_slug": "sample-problem-59"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 60,
+        "question__title": "Sample Problem 60",
+        "question__title_slug": "sample-problem-60"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 61,
+        "question__title": "Sample Problem 61",
+        "question__title_slug": "sample-problem-61"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 62,
+        "question__title": "Sample Problem 62",
+        "question__title_slug": "sample-problem-62"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 63,
+        "question__title": "Sample Problem 63",
+        "question__title_slug": "sample-problem-63"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 64,
+        "question__title": "Sample Problem 64",
+        "question__title_slug": "sample-problem-64"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 65,
+        "question__title": "Sample Problem 65",
+        "question__title_slug": "sample-problem-65"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 66,
+        "question__title": "Sample Problem 66",
+        "question__title_slug": "sample-problem-66"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 67,
+        "question__title": "Sample Problem 67",
+        "question__title_slug": "sample-problem-67"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 68,
+        "question__title": "Sample Problem 68",
+        "question__title_slug": "sample-problem-68"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 69,
+        "question__title": "Sample Problem 69",
+        "question__title_slug": "sample-problem-69"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 70,
+        "question__title": "Sample Problem 70",
+        "question__title_slug": "sample-problem-70"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 71,
+        "question__title": "Sample Problem 71",
+        "question__title_slug": "sample-problem-71"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 72,
+        "question__title": "Sample Problem 72",
+        "question__title_slug": "sample-problem-72"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 73,
+        "question__title": "Sample Problem 73",
+        "question__title_slug": "sample-problem-73"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 74,
+        "question__title": "Sample Problem 74",
+        "question__title_slug": "sample-problem-74"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 75,
+        "question__title": "Sample Problem 75",
+        "question__title_slug": "sample-problem-75"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 76,
+        "question__title": "Sample Problem 76",
+        "question__title_slug": "sample-problem-76"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 77,
+        "question__title": "Sample Problem 77",
+        "question__title_slug": "sample-problem-77"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 78,
+        "question__title": "Sample Problem 78",
+        "question__title_slug": "sample-problem-78"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 79,
+        "question__title": "Sample Problem 79",
+        "question__title_slug": "sample-problem-79"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 80,
+        "question__title": "Sample Problem 80",
+        "question__title_slug": "sample-problem-80"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 81,
+        "question__title": "Sample Problem 81",
+        "question__title_slug": "sample-problem-81"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 82,
+        "question__title": "Sample Problem 82",
+        "question__title_slug": "sample-problem-82"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 83,
+        "question__title": "Sample Problem 83",
+        "question__title_slug": "sample-problem-83"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 84,
+        "question__title": "Sample Problem 84",
+        "question__title_slug": "sample-problem-84"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 85,
+        "question__title": "Sample Problem 85",
+        "question__title_slug": "sample-problem-85"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 86,
+        "question__title": "Sample Problem 86",
+        "question__title_slug": "sample-problem-86"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 87,
+        "question__title": "Sample Problem 87",
+        "question__title_slug": "sample-problem-87"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 88,
+        "question__title": "Sample Problem 88",
+        "question__title_slug": "sample-problem-88"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 89,
+        "question__title": "Sample Problem 89",
+        "question__title_slug": "sample-problem-89"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 90,
+        "question__title": "Sample Problem 90",
+        "question__title_slug": "sample-problem-90"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 91,
+        "question__title": "Sample Problem 91",
+        "question__title_slug": "sample-problem-91"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 92,
+        "question__title": "Sample Problem 92",
+        "question__title_slug": "sample-problem-92"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 93,
+        "question__title": "Sample Problem 93",
+        "question__title_slug": "sample-problem-93"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 94,
+        "question__title": "Sample Problem 94",
+        "question__title_slug": "sample-problem-94"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 95,
+        "question__title": "Sample Problem 95",
+        "question__title_slug": "sample-problem-95"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 96,
+        "question__title": "Sample Problem 96",
+        "question__title_slug": "sample-problem-96"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 97,
+        "question__title": "Sample Problem 97",
+        "question__title_slug": "sample-problem-97"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 98,
+        "question__title": "Sample Problem 98",
+        "question__title_slug": "sample-problem-98"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 99,
+        "question__title": "Sample Problem 99",
+        "question__title_slug": "sample-problem-99"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 100,
+        "question__title": "Sample Problem 100",
+        "question__title_slug": "sample-problem-100"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 101,
+        "question__title": "Sample Problem 101",
+        "question__title_slug": "sample-problem-101"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 102,
+        "question__title": "Sample Problem 102",
+        "question__title_slug": "sample-problem-102"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 103,
+        "question__title": "Sample Problem 103",
+        "question__title_slug": "sample-problem-103"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 104,
+        "question__title": "Sample Problem 104",
+        "question__title_slug": "sample-problem-104"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 105,
+        "question__title": "Sample Problem 105",
+        "question__title_slug": "sample-problem-105"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 106,
+        "question__title": "Sample Problem 106",
+        "question__title_slug": "sample-problem-106"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 107,
+        "question__title": "Sample Problem 107",
+        "question__title_slug": "sample-problem-107"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 108,
+        "question__title": "Sample Problem 108",
+        "question__title_slug": "sample-problem-108"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 109,
+        "question__title": "Sample Problem 109",
+        "question__title_slug": "sample-problem-109"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 110,
+        "question__title": "Sample Problem 110",
+        "question__title_slug": "sample-problem-110"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 111,
+        "question__title": "Sample Problem 111",
+        "question__title_slug": "sample-problem-111"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 112,
+        "question__title": "Sample Problem 112",
+        "question__title_slug": "sample-problem-112"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 113,
+        "question__title": "Sample Problem 113",
+        "question__title_slug": "sample-problem-113"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 114,
+        "question__title": "Sample Problem 114",
+        "question__title_slug": "sample-problem-114"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 115,
+        "question__title": "Sample Problem 115",
+        "question__title_slug": "sample-problem-115"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 116,
+        "question__title": "Sample Problem 116",
+        "question__title_slug": "sample-problem-116"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 117,
+        "question__title": "Sample Problem 117",
+        "question__title_slug": "sample-problem-117"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 118,
+        "question__title": "Sample Problem 118",
+        "question__title_slug": "sample-problem-118"
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 119,
+        "question__title": "Sample Problem 119",
+        "question__title_slug": "sample-problem-119"
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "string"
+        },
+        {
+          "slug": "math"
+        }
+      ]
+    },
+    {
+      "stat": {
+        "question_id": 120,
+        "question__title": "Sample Problem 120",
+        "question__title_slug": "sample-problem-120"
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false,
+      "topic_tags": [
+        {
+          "slug": "array"
+        },
+        {
+          "slug": "hash-table"
+        },
+        {
+          "slug": "dynamic-programming"
+        }
+      ]
+    }
+  ]
+}

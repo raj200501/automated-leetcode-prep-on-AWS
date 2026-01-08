@@ -1,0 +1,2 @@
+# Optional placeholder for dependency caching.
+# The project uses only the Python standard library by default.

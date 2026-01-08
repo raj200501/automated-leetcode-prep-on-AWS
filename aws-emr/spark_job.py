@@ -1,16 +1,16 @@
-from pyspark.sql import SparkSession
+"""Local EMR analytics job wrapper."""
 
-spark = SparkSession.builder \
-    .appName("LeetCodeDataProcessing") \
-    .getOrCreate()
+from pathlib import Path
 
-df = spark.read.json("s3://leetcode-prep-bucket/processed-problems/")
-df.createOrReplaceTempView("problems")
+from automated_leetcode_prep.emr import run_emr
+from automated_leetcode_prep.glue_job import load_normalized
 
-result = spark.sql("""
-    SELECT difficulty, COUNT(*) as count
-    FROM problems
-    GROUP BY difficulty
-""")
 
-result.write.mode("overwrite").json("s3://leetcode-prep-bucket/analysis-results/")
+def run() -> str:
+    normalized = load_normalized(Path("build/normalized/problems.json"))
+    result = run_emr(normalized, Path("build/analytics/metrics.json"))
+    return str(result.metrics_path)
+
+
+if __name__ == "__main__":
+    print(run())

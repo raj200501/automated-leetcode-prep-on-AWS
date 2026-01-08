@@ -1,10 +1,35 @@
 {
-  "Comment": "State Machine for Automating LeetCode Prep",
-  "StartAt": "InvokeLambdaFunction",
+  "Comment": "Local deterministic state machine for the LeetCode prep pipeline",
+  "StartAt": "Scrape",
   "States": {
-    "InvokeLambdaFunction": {
+    "Scrape": {
       "Type": "Task",
-      "Resource": "arn:aws:lambda:YOUR_REGION:YOUR_ACCOUNT_ID:function:LeetCodeScraperLambda",
+      "Resource": "local:scraper",
+      "Next": "LambdaTransform"
+    },
+    "LambdaTransform": {
+      "Type": "Task",
+      "Resource": "local:lambda",
+      "Next": "GlueJob"
+    },
+    "GlueJob": {
+      "Type": "Task",
+      "Resource": "local:glue",
+      "Next": "AthenaQueries"
+    },
+    "AthenaQueries": {
+      "Type": "Task",
+      "Resource": "local:athena",
+      "Next": "RedshiftLoad"
+    },
+    "RedshiftLoad": {
+      "Type": "Task",
+      "Resource": "local:redshift",
+      "Next": "EmrAnalytics"
+    },
+    "EmrAnalytics": {
+      "Type": "Task",
+      "Resource": "local:emr",
       "End": true
     }
   }
