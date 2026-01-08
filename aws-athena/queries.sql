@@ -1,9 +1,10 @@
-CREATE DATABASE leetcode_db;
+-- Local Athena-compatible queries executed via SQLite in the pipeline
+SELECT difficulty, COUNT(*) as problem_count
+FROM problems
+GROUP BY difficulty;
 
-CREATE EXTERNAL TABLE leetcode_db.problems (
-    id BIGINT,
-    title STRING,
-    difficulty STRING
-)
-ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe'
-LOCATION 's3://leetcode-prep-bucket/processed-problems/';
+SELECT slug
+FROM problems
+WHERE is_paid_only = 0
+ORDER BY id
+LIMIT 5;
