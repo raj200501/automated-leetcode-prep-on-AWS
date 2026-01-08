@@ -1,21 +1,19 @@
-import sys
-from awsglue.transforms import *
-from awsglue.utils import getResolvedOptions
-from pyspark.context import SparkContext
-from awsglue.context import GlueContext
-from awsglue.job import Job
+"""Local-friendly Glue job wrapper."""
 
-args = getResolvedOptions(sys.argv, ['JOB_NAME'])
-sc = SparkContext()
-glueContext = GlueContext(sc)
-spark = glueContext.spark_session
-job = Job(glueContext)
-job.init(args['JOB_NAME'], args)
+from pathlib import Path
 
-datasource0 = glueContext.create_dynamic_frame.from_catalog(database = "leetcode_db", table_name = "problems", transformation_ctx = "datasource0")
+from automated_leetcode_prep.glue_job import run_glue_job
 
-applymapping1 = ApplyMapping.apply(frame = datasource0, mappings = [("id", "long", "id", "long"), ("title", "string", "title", "string"), ("difficulty", "string", "difficulty", "string")], transformation_ctx = "applymapping1")
 
-datasink2 = glueContext.write_dynamic_frame.from_options(frame = applymapping1, connection_type = "s3", connection_options = {"path": "s3://leetcode-prep-bucket/processed-problems/"}, format = "json", transformation_ctx = "datasink2")
+def run(job_name: str = "local-glue-job") -> str:
+    base = Path("build")
+    result = run_glue_job(
+        base / "normalized/problems.json",
+        base / "processed/problems.jsonl",
+        base / "processed/summary.csv",
+    )
+    return f"{job_name} wrote {result.output_count} records"
 
-job.commit()
+
+if __name__ == "__main__":
+    print(run())
